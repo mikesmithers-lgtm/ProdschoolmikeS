@@ -4,18 +4,23 @@
 
 ## The mechanic
 
-_The habit loop: trigger → action → reward → investment._
+**Mechanic:** Custom
+
+- **Trigger:** A notification in their flow of work - Teams/Slack/App
+- **Action:** Click and complete a focus item
+- **Reward:** They see the leaderboard but also see the financial value of their actions
+- **Investment:** Take an action to improve the model position
 
 _____
 
 ## Rationale
 
-_Why this drives retention before the paywall._
+This addresses the root cause as the numbers tell us that people are not using the system to make a meaningful impact and rather just checking in to see the model without using the system to undertake activity.
 
 _____
 
 ## Wireframe
 
-_A link or image of the mechanic in context._
+[Wireframe link](https://aha-insight-path.lovable.app)
 
 _____
